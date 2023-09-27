@@ -10,6 +10,8 @@ flask-migrate = "*"
 jsonify = "*"
 faker = "*"
 ipdb = "*"
+sqlalchemy-serializer = "*"
+flask-restful = "*"
 
 [dev-packages]
 

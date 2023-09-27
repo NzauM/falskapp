@@ -32,4 +32,4 @@ with app.app_context():
     print("DONE")
 
     mypat = Patient.query.first()
-    # ipdb.set_trace()
+    ipdb.set_trace()
